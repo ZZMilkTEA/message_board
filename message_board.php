@@ -9,7 +9,7 @@ require "DB_connect.php";
 </head>
 <body>
 <h1>
-    留言板
+    留言板 V0.1
 </h1>
 <article>
     <?php
